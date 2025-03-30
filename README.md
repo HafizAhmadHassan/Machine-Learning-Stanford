@@ -12,6 +12,9 @@ Some Highlihs to Remember:
 - Siimultanous updates of parameters w,b
 
 - Reference --> Week 1 : Gradient descent intuition (Look Slides)
+- **consider graph : y-axis J(w) and x-axis : w decrease in weight**
+ - decrease J(w) ? --> no --> slope is negative
+ - otherwise slope positive
 - Derivative(cost Fucntion) with respect to Weight
   - Decrease value of weight increase Cost so Derivative is --> Negative
   - Decrease value of weight Decrease Cost so Derivative is --> Positive
