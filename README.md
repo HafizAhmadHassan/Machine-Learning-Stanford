@@ -26,6 +26,12 @@ Some Highlihs to Remember:
 
 - Covex Function have onlt one local minima otherwise the cost function depending on initial stage to start to end up with different local minima
 - Batch gradient descent --> different local minimums in --> cost function
+
+**overfitting vs under**
+- overfitting occurs when a model learns the training data too well, including noise, and performs poorly on unseen data, while underfitting happens when a model is too simple to capture the underlying patterns in the data, leading to poor performance on both training and testing sets
+
+**overshoot**
+- Gradient descent never reach min because LR too high
   
 
 
