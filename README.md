@@ -9,12 +9,15 @@ We are gaving two Course Together here Old Version and New Version Both
 [New PPT](https://github.com/LasithaAmarasinghe/Machine-Learning-Specialization-Coursera/)
 
 Some Highlihs to Remember:
+- Siimultanous updates of parameters w,b
+
 - Reference --> Week 1 : Gradient descent intuition (Look Slides)
 - Derivative(cost Fucntion) with respect to Weight
   - Decrease value of weight increase Cost so Derivative is --> Negative
   - Decrease value of weight Decrease Cost so Derivative is --> Positive
   - Weight = Weight - alpha (derivative Result) --> equation --> Achieve our desire Aim
   - Links to Understand [Derivative](https://www.mathway.com/examples/calculus/derivatives/using-the-limit-definition-to-find-the-derivative?id=665)
+
 
 
  - Gradient descent finds Local Minimum
