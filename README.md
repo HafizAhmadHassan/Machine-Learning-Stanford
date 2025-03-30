@@ -25,6 +25,7 @@ Some Highlihs to Remember:
    - The quantity of derivative will tell us learning rate steps with fixed value
 
 - Covex Function have onlt one local minima otherwise the cost function depending on initial stage to start to end up with different local minima
+- Batch gradient descent --> different local minimums in --> cost function
   
 
 
