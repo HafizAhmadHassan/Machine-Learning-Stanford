@@ -15,6 +15,11 @@ Some Highlihs to Remember:
   - Decrease value of weight Decrease Cost so Derivative is --> Positive
   - Weight = Weight - alpha (derivative Result) --> equation --> Achieve our desire Aim
   - Links to Understand [Derivative](https://www.mathway.com/examples/calculus/derivatives/using-the-limit-definition-to-find-the-derivative?id=665)
+
+
+ - Gradient descent finds Local Minimum
+ - Varability in Learning Rate
+   - The quantity of derivative will tell us learning rate steps with fixed value
   
 
 
