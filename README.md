@@ -32,6 +32,12 @@ Some Highlihs to Remember:
 
 **overshoot**
 - Gradient descent never reach min because LR too high
+
+## Week 2
+- Vectorisation faster and short the code
+- Multiple linear Regression : different factors to measure house for ex : size , rooms, life --> rooms more its adds 2000 dollars * number of rooms in house price
+- w1 x1 , w2 x2 ...wn xn
+- Vecorisation Part 1-2 Explain parallel processing of code 
   
 
 
